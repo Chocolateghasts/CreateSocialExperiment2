@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "...",
+    "._.",
+    "..."
+  ],
+  "key": {
+    ".": {
+      "item": "minecraft:iron_ingot"
+    },
+
+    "_": {
+      "item": "mewoscreate:volcanic_crystal"
+    }
+  },
+  "result": {
+    "item": "mewoscreate:volcanic_amulet"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "all": "mewoscreate:block/volcanic_crystal_ore",
+    "east": "mewoscreate:block/volcanic_crystal_ore",
+    "north": "mewoscreate:block/volcanic_crystal_ore",
+    "south": "mewoscreate:block/volcanic_crystal_ore",
+    "up": "mewoscreate:block/volcanic_crystal_ore",
+    "west": "mewoscreate:block/volcanic_crystal_ore",
+    "particle": "mewoscreate:block/volcanic_crystal_ore"
+  }
+}
