@@ -1,0 +1,7 @@
+{
+  "parent": "itemVOO",
+
+  "textures": {
+    "layer0": "mewoscreate:item/volcanic_sword"
+  }
+}

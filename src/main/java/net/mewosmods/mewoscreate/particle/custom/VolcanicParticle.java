@@ -18,7 +18,7 @@ public class VolcanicParticle extends TextureSheetParticle {
         double SpriteSet = 0;
     }
 
-    @Over   ride
+    @Override
     public ParticleRenderType getRenderType() {
         return null;
     }

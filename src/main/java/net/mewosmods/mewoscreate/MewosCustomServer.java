@@ -42,7 +42,7 @@ public class MewosCustomServer {
         MinecraftForge.EVENT_BUS.register(new ModEventHandler());
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
-        ModParticles.PARTICLES.register(modEventBus);
+        //ModParticles.PARTICLES.register(modEventBus);
 
 
     }

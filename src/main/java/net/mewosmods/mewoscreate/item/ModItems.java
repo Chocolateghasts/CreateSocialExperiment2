@@ -18,4 +18,6 @@ public class ModItems {
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
+    public static final RegistryObject<Item> VOLCANIC_SWORD = ITEMS.register("volcanic_sword",
+            () -> new Item(new Item.Properties()));
 }
